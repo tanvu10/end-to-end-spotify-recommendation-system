@@ -9,8 +9,6 @@ Spotify Million Playlist Dataset Challenge: consists of a dataset and evaluation
 
 
 
-
-
 ## Types of Candidate Generation Systems:
 1. Content-based filtering System
 - Does not require other users' data during recommendations to one user.
